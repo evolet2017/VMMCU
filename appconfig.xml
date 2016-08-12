@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MCUweb-Accounting>
+  <mcu dbserver="WIN-7IVI5D9H44C" port="80" timeout="120" connectionstring="Server=WIN-7IVI5D9H44C\MCUDB;Database=MBv8Ledger;User Id=sa;Password=microbanker;" />
+</MCUweb-Accounting>
